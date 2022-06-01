@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "fs-extra": "^10.1.0"
+  },
+  "name": "it-a-4",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asspirine/it-a-4.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asspirine/it-a-4/issues"
+  },
+  "homepage": "https://github.com/asspirine/it-a-4#readme"
+}
